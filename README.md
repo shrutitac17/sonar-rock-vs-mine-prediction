@@ -1,7 +1,9 @@
 # Sonar Rock vs Mine Prediction
 
 This is a machine learning web app that predicts whether an object is a Rock or a Mine based on sonar signal data. It uses Logistic Regression and is built using Python, Streamlit, and SQLite.
+# Live Demo
 
+ [Click here to try the Live Streamlit App](https://sonar-rock-vs-mine-prediction-numopphpkifovjt2upk2xf.streamlit.app/)
 ## Features
 
 - Upload CSV files with sonar signal data (60 features).
